@@ -1,5 +1,0 @@
-nome = input('Qual é seu nome?')
-idade = input ('Qual é sua idade?')
-peso = input('Qual é seu peso?')
-nascimento = input('Qual é sua data de nascimento?')
-print(nome,nascimento,idade,peso)
